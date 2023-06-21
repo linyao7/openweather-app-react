@@ -1,0 +1,26 @@
+{
+  "printWidth": 100,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "quoteProps": "as-needed",
+  "jsxSingleQuote": false,
+  "bracketSpacing": true,
+  "bracketSameLine": false,
+  "arrowParens": "always",
+  "endOfLine": "lf",
+  "importOrder": [
+    "<THIRD_PARTY_MODULES>",
+    "^(?:(?:[.]{1,2}\\/){1,})types(\\/.*)?$",
+    "^(?:(?:[.]{1,2}\\/){1,})enums(\\/.*)?$",
+    "^(?:(?:[.]{1,2}\\/){1,})constants(\\/.*)?$",
+    "^(?:(?:[.]{1,2}\\/){1,})contexts/(.*)$",
+    "^(?:(?:[.]{1,2}\\/){1,})hooks/(.*)$",
+    "^(?:(?:[.]{1,2}\\/){1,})components/(.*)$",
+    "^(?:(?:[.]{1,2}\\/){1,})pages/(.*)$",
+    "^(?:(?:[.]{1,2}\\/){1,})"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}
